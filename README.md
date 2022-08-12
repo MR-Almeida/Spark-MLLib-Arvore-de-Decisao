@@ -2,7 +2,7 @@
 
 O intuito deste codigo é mostrar como se aplicar o algoritmo de árvore de decisão (Decision Tree) através do PySpark, mostrar as bibliotecas, fazer análise exploratória, alguns jeitos de programar para poder fazer a limpeza e o pré-processamento dos dados.
 
-Vou estar utilizando o dataset das flores mais conhecido com o objetivo de aplicar o aprendizado não superviosionado, para a partir dos dados que temos conseguir classificar as esécies de flores.
+Vou estar utilizando o dataset das flores mais conhecido com o objetivo de aplicar o aprendizado não superviosionado, para a partir dos dados que temos conseguir classificar as espécies de flores.
 
 As variáveis escolhidas foram através da análise de correlação.
 
